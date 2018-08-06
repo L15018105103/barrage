@@ -1,0 +1,2 @@
+# barrage
+一个纯原生js写的弹幕效果，并且使用了requestAnimationFrame来使弹幕移动
